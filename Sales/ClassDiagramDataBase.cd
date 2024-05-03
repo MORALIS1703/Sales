@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Sales.Data.ApplicationDbContext" Collapsed="true">
+    <Position X="12.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAAAAAAAQAAAAEAAAEAAAAQAAAAAAAAQ=</HashCode>
+      <FileName>Data\ApplicationDbContext.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sales.Data.Models.Base.BaseEntity" Collapsed="true">
+    <Position X="5.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Data\Models\Base\BaseEntity.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sales.Data.Models.Base.Entity&lt;T&gt;" Collapsed="true">
+    <Position X="5.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Data\Models\Base\Entity.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Sales.Data.Models.ApplicationUser" Collapsed="true">
+    <Position X="14" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAAAAAAAQAAQAAAAAAAAACAAAAAAAAAA=</HashCode>
+      <FileName>Data\Models\ApplicationUser.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sales.Data.Models.Category" Collapsed="true">
+    <Position X="3" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAABAAAAAAAAAAAAQ=</HashCode>
+      <FileName>Data\Models\Category.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sales.Data.Models.Order" Collapsed="true">
+    <Position X="7.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAIAAAAAAAAAAAAAAAAAAACAAAAFACAwAAAAACAAA=</HashCode>
+      <FileName>Data\Models\Order.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sales.Data.Models.OrderedProduct" Collapsed="true">
+    <Position X="9.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAECAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>Data\Models\OrderedProduct.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sales.Data.Models.Product" Collapsed="true">
+    <Position X="0.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQABAgAAAAAAAERAAAAAABAAAQAAAAAACAA=</HashCode>
+      <FileName>Data\Models\Product.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sales.Data.Models.UserAddress" Collapsed="true">
+    <Position X="5.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAAAAAAAgAAAAAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>Data\Models\UserAddress.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Sales.Data.Models.Base.IEntity&lt;T&gt;" Collapsed="true">
+    <Position X="12.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Data\Models\Base\IEntity.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

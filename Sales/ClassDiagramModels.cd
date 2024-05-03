@@ -1,0 +1,152 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Sales.Models.ErrorViewModel" Collapsed="true">
+    <Position X="9.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\ErrorViewModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sales.Models.Cart.CartItemModel" Collapsed="true">
+    <Position X="6.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>Models\Cart\CartItemModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sales.Models.Cart.CartModel" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAACABAAAAAAAUAAAAAAAAAAAAAAAAAACA=</HashCode>
+      <FileName>Models\Cart\CartModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sales.Models.Cart.CheckoutModel" Collapsed="true">
+    <Position X="9.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAAAAAAAAAAgAAAAAAAAACAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Cart\CheckoutModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sales.Models.Catalog.MenuItemModel" Collapsed="true">
+    <Position X="11.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAQAAAAAAAAgAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Catalog\MenuItemModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sales.Models.Category.CategoryModel" Collapsed="true">
+    <Position X="8" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAQAAAAAABAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Category\CategoryModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sales.Models.Category.CreateCategoryModel" Collapsed="true">
+    <Position X="6.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAQAAAAAABAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Category\CreateCategoryModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sales.Models.Category.EditCategoryModel" Collapsed="true">
+    <Position X="9.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAQAAAAAABAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Category\EditCategoryModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sales.Models.Client.ClientModel" Collapsed="true">
+    <Position X="11.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAACAAAAAAAAAAQAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Client\ClientModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sales.Models.Client.EditClientModel" Collapsed="true">
+    <Position X="11.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAACAAAAAAAAAAQAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Client\EditClientModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sales.Models.Employee.CreateEmployeeModel" Collapsed="true">
+    <Position X="8" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAAAAQAQAAAAAAAACAAAAAAAAIAA=</HashCode>
+      <FileName>Models\Employee\CreateEmployeeModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sales.Models.Employee.EditEmployeeModel" Collapsed="true">
+    <Position X="6.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAACAAAAAAAAAAQAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Employee\EditEmployeeModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sales.Models.Employee.EmployeeModel" Collapsed="true">
+    <Position X="8" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAACAAAAAAAAAAQAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Employee\EmployeeModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sales.Models.Product.CreateProductModel" Collapsed="true">
+    <Position X="3.5" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQABAgAAAAAAAERAAAAAABAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Product\CreateProductModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sales.Models.Product.EditProductModel" Collapsed="true">
+    <Position X="3.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Product\EditProductModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sales.Models.Product.ProductModel" Collapsed="true">
+    <Position X="6.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAQABAgAAAAAAAERAAAAAABAAAAAAAAAACAA=</HashCode>
+      <FileName>Models\Product\ProductModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sales.Services.CartService" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAQBAAAAAEEEAAAAAAAAAAAAAAAAAACA=</HashCode>
+      <FileName>Services\CartService.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sales.Services.EmailSenderService" Collapsed="true">
+    <Position X="0.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAA=</HashCode>
+      <FileName>Services\EmailSenderService.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Sales.Options.MailOptions" Collapsed="true">
+    <Position X="3.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAACIAAAAAAAAAAAACAAAAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>Options\MailOptions.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sales.Models.Report.ReportModel" Collapsed="true">
+    <Position X="8" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAAAAAAAAAAQgAAAAAAAAAAQAAEAAAAA=</HashCode>
+      <FileName>Models\Report\ReportModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sales.Models.Report.ReportProductModel" Collapsed="true">
+    <Position X="9.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAgAAAAAA=</HashCode>
+      <FileName>Models\Report\ReportProductModel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

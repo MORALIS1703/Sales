@@ -1,0 +1,172 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Sales.Areas.Identity.Pages.ErrorModel" Collapsed="true">
+    <Position X="3.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAAQAAAAAAAAAAAAAAAAAAAQAAAAAAAA=</HashCode>
+      <FileName>Areas\Identity\Pages\Error.cshtml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sales.Areas.Identity.Pages.Account.Manage.ListAddressModel" Collapsed="true">
+    <Position X="3.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABABAAAAAAABAAgAAAAAAAAAACAAAACAAAEAIAAAAA=</HashCode>
+      <FileName>Areas\Identity\Pages\Account\Manage\Address.cshtml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sales.Areas.Identity.Pages.Account.Manage.ChangePasswordModel" Collapsed="true">
+    <Position X="3.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAAgAABAAAAAMAAAAAAAAAAEAIAAAAA=</HashCode>
+      <FileName>Areas\Identity\Pages\Account\Manage\ChangePassword.cshtml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sales.Areas.Identity.Pages.Account.Manage.EditAddressModel" Collapsed="true">
+    <Position X="9" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACBAAAAAAABAAgAAAAAAAAAAAAAAACAAAEAIAAAAA=</HashCode>
+      <FileName>Areas\Identity\Pages\Account\Manage\EditAddress.cshtml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sales.Areas.Identity.Pages.Account.Manage.EmailModel" Collapsed="true">
+    <Position X="2" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAgACAAAAAgAABAAAAAEACAAAAAAgABgIAAAAA=</HashCode>
+      <FileName>Areas\Identity\Pages\Account\Manage\Email.cshtml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sales.Areas.Identity.Pages.Account.Manage.GenerateRecoveryCodesModel" Collapsed="true">
+    <Position X="9" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAAgAAAAAAAAIAAAAAgAAAAEAIAAAAA=</HashCode>
+      <FileName>Areas\Identity\Pages\Account\Manage\GenerateRecoveryCodes.cshtml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sales.Areas.Identity.Pages.Account.Manage.IndexModel" Collapsed="true">
+    <Position X="2" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAgAAAAAAAgAQBAAAAAEAAAAAAAAAAEAIAAAAA=</HashCode>
+      <FileName>Areas\Identity\Pages\Account\Manage\Index.cshtml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sales.Areas.Identity.Pages.Account.Manage.ManageNavPages" Collapsed="true">
+    <Position X="3.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQgAABAACAgkAAAKAgCQiAAAAAAAwACAAUAAAAAAAA=</HashCode>
+      <FileName>Areas\Identity\Pages\Account\Manage\ManageNavPages.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sales.Areas.Identity.Pages.Account.Manage.SetPasswordModel" Collapsed="true">
+    <Position X="5.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAAgAABAAAAAEAAAAAAAAAAEAIAAAAA=</HashCode>
+      <FileName>Areas\Identity\Pages\Account\Manage\SetPassword.cshtml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sales.Areas.Identity.Pages.Account.Manage.ShowRecoveryCodesModel" Collapsed="true">
+    <Position X="7.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAQAAIAAAAA=</HashCode>
+      <FileName>Areas\Identity\Pages\Account\Manage\ShowRecoveryCodes.cshtml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sales.Areas.Identity.Pages.Account.AccessDeniedModel" Collapsed="true">
+    <Position X="2" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAA=</HashCode>
+      <FileName>Areas\Identity\Pages\Account\AccessDenied.cshtml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sales.Areas.Identity.Pages.Account.ConfirmEmailModel" Collapsed="true">
+    <Position X="7.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAIAAAAA=</HashCode>
+      <FileName>Areas\Identity\Pages\Account\ConfirmEmail.cshtml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sales.Areas.Identity.Pages.Account.ConfirmEmailChangeModel" Collapsed="true">
+    <Position X="5.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAAgAABAAAAAAAAAAAAAAAAAAIAAAAA=</HashCode>
+      <FileName>Areas\Identity\Pages\Account\ConfirmEmailChange.cshtml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sales.Areas.Identity.Pages.Account.ForgotPasswordModel" Collapsed="true">
+    <Position X="7.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAAAAAAAAAAAEACAAAAAAAAEAAAAAAA=</HashCode>
+      <FileName>Areas\Identity\Pages\Account\ForgotPassword.cshtml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sales.Areas.Identity.Pages.Account.ForgotPasswordConfirmation" Collapsed="true">
+    <Position X="5.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAA=</HashCode>
+      <FileName>Areas\Identity\Pages\Account\ForgotPasswordConfirmation.cshtml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sales.Areas.Identity.Pages.Account.LockoutModel" Collapsed="true">
+    <Position X="5.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAA=</HashCode>
+      <FileName>Areas\Identity\Pages\Account\Lockout.cshtml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sales.Areas.Identity.Pages.Account.LoginModel" Collapsed="true">
+    <Position X="7.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAAAgAABAAAAAMAAAAQAAAAIEAAAAAAA=</HashCode>
+      <FileName>Areas\Identity\Pages\Account\Login.cshtml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sales.Areas.Identity.Pages.Account.LoginWithRecoveryCodeModel" Collapsed="true">
+    <Position X="9" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAAgAABAAAAAMAAAAAAAAAIEAAAAAAA=</HashCode>
+      <FileName>Areas\Identity\Pages\Account\LoginWithRecoveryCode.cshtml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sales.Areas.Identity.Pages.Account.LogoutModel" Collapsed="true">
+    <Position X="2" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAAAAAAAAAABAAAAAIAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Areas\Identity\Pages\Account\Logout.cshtml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sales.Areas.Identity.Pages.Account.RegisterModel" Collapsed="true">
+    <Position X="7.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAADAAAAQAAAAAgAABAAAAAMgCAAAQAAAIEAAAAAAA=</HashCode>
+      <FileName>Areas\Identity\Pages\Account\Register.cshtml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sales.Areas.Identity.Pages.Account.RegisterConfirmationModel" Collapsed="true">
+    <Position X="5.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAMAACAAAAAggAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Areas\Identity\Pages\Account\RegisterConfirmation.cshtml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sales.Areas.Identity.Pages.Account.ResendEmailConfirmationModel" Collapsed="true">
+    <Position X="9" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAAAAAAAAAAAEACAAAAAAAQEAAAAAAA=</HashCode>
+      <FileName>Areas\Identity\Pages\Account\ResendEmailConfirmation.cshtml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sales.Areas.Identity.Pages.Account.ResetPasswordModel" Collapsed="true">
+    <Position X="3.75" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAAAAAAAAAAAEAAAAAAAAAQEAAAAAAA=</HashCode>
+      <FileName>Areas\Identity\Pages\Account\ResetPassword.cshtml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sales.Areas.Identity.Pages.Account.ResetPasswordConfirmationModel" Collapsed="true">
+    <Position X="2" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAA=</HashCode>
+      <FileName>Areas\Identity\Pages\Account\ResetPasswordConfirmation.cshtml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

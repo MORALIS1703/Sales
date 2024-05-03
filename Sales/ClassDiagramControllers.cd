@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Sales.Controllers.CartController" Collapsed="true">
+    <Position X="4.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAQEAABAAAAAAAAAAAAAEAAAAAAAEAAABAAAA=</HashCode>
+      <FileName>Controllers\CartController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sales.Controllers.CatalogController" Collapsed="true">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Controllers\CatalogController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sales.Controllers.CategoryController" Collapsed="true">
+    <Position X="7.75" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAACAAAAAAAAAAAEAAEACAAAAAAAAAAA=</HashCode>
+      <FileName>Controllers\CategoryController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sales.Controllers.ClientController" Collapsed="true">
+    <Position X="4.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAADAAAAAABAACAAAAAAAAAAgEAAEQCAAEAAAAAAAA=</HashCode>
+      <FileName>Controllers\ClientController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sales.Controllers.DeliveryController" Collapsed="true">
+    <Position X="6" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAA=</HashCode>
+      <FileName>Controllers\DeliveryController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sales.Controllers.EmployeesController" Collapsed="true">
+    <Position X="7.75" Y="1.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>gAAADAAAAAABAACAAAAAAAAAAgEAAEQCAAEAAAAAAAA=</HashCode>
+      <FileName>Controllers\EmployeesController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sales.Controllers.HomeController" Collapsed="true">
+    <Position X="4.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABCAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Controllers\HomeController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sales.Controllers.OrdersController" Collapsed="true">
+    <Position X="6" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAABAQAAAABBACAAAAAAAAAAAEAAAAAAAEAAAAAAAA=</HashCode>
+      <FileName>Controllers\OrdersController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sales.Controllers.ProductController" Collapsed="true">
+    <Position X="7.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAAAAACAAAAAAAAAAAEAAEACAAAAAAAAAAA=</HashCode>
+      <FileName>Controllers\ProductController.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
